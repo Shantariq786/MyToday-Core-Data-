@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "مرحبًا بعودتك!";
+"your_work_faster_and_structured_with_todyapp" = "عملك بشكل أسرع ومنظم مع Todyapp";
+"email_address" = "عنوان البريد الإلكتروني";
+"password" = "كلمة المرور";
+"remember_me" = "تذكرنى";
+"sign_in" = "تسجيل الدخول";
+"forgot_password" = "هل نسيت كلمة السر";
+"don't_have_an_account" = "ليس لديك حساب";
+"sign_up_now" = "أفتح حساب الأن";
+
+
+// Sign Up
+
+"create_account" = "إنشاء حساب";
+"create_your_account_and_feel_the_benefits" = "أنشئ حسابك وأشعر بالفوائد";
+"confirm_password" = "تأكيد كلمة المرور";
+"sign_up" = "اشتراك";
+
+
+// Settings View Controller
+
+"account" = "حساب";
+"languages" = "اللغات";
+"app_icon" = "أيقونة التطبيق";
+"change_mode" = "غير الطريقة";
+"privacy_policy" = "سياسة الخصوصية";
+"help_center" = "مركز المساعدة";
+"log_out" = "تسجيل خروج";
+
+
+// Profile Screen
+
+"profile" = "حساب تعريفي";
+"upload_profile_image" = "تحميل صورة الملف الشخصي";
+"name" = "اسم";
+"email" = "بريد إلكتروني";
+"edit_name" = "تعديل الاسم";
+"edit_email" = "تحرير البريد الإلكتروني";
+
+
+// CreateTodo Screen
+
+"title" = "عنوان";
+"description" = "وصف";
+"priority" = "أولوية";
+"time" = "وقت";
+"create" = "يخلق";
+
+
+// EditTodo Screen
+
+"update" = "تحديث";
+"edit_today" = "تحرير اليوم";
+
+
+//Tabbar Text
+
+"home" = "بيت";
+"upcomings" = "القادمة";
+"settings" = "إعدادات";

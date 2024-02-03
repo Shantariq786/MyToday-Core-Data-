@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "Welcome Back!";
+"your_work_faster_and_structured_with_todyapp" = "Your work faster and structured with Todyapp";
+"email_address" = "Email Address";
+"password" = "Password";
+"remember_me" = "Remember Me";
+"sign_in" = "Sign in";
+"forgot_password" = "Forgot Password";
+"don't_have_an_account" = "Don't have an account";
+"sign_up_now" = "Sign up Now";
+
+
+// Sign Up
+
+"create_account" = "Create account";
+"create_your_account_and_feel_the_benefits" = "Create your account and feel the benefits ";
+"confirm_password" = "Confirm Password";
+"sign_up" = "Sign up";
+
+
+// Settings View Controller
+
+"account" = "Account";
+"languages" = "Languages";
+"app_icon" = "App Icon";
+"change_mode" = "Change Mode";
+"privacy_policy" = "Privacy Policy";
+"help_center" = "Help Center";
+"log_out" = "Log Out";
+
+
+// Profile Screen
+
+"profile" = "Profile";
+"upload_profile_image" = "Upload Profile Image";
+"name" = "Name";
+"email" = "Email";
+"edit_name" = "Edit Name";
+"edit_email" = "Edit Email";
+
+
+// CreateTodo Screen
+
+"title" = "Title";
+"description" = "Description";
+"priority" = "Priority";
+"time" = "Time";
+"create" = "Create";
+
+
+// EditTodo Screen
+
+"update" = "Update";
+"edit_today" = "Edit Today";
+
+
+//Tabbar Text
+
+"home" = "Home";
+"upcomings" = "Upcomings";
+"settings" = "Settings";

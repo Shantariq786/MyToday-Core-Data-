@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "वापसी पर स्वागत है!";
+"your_work_faster_and_structured_with_todyapp" = "Todyapp के साथ आपका काम तेज़ और संरचित है";
+"email_address" = "मेल पता";
+"password" = "पासवर्ड";
+"remember_me" = "मुझे याद करो";
+"sign_in" = "दाखिल करना";
+"forgot_password" = "पासवर्ड भूल गए";
+"don't_have_an_account" = "कोई खाता नहीं है";
+"sign_up_now" = "अभी साइनअप करें";
+
+
+// Sign Up
+
+"create_account" = "खाता बनाएं";
+"create_your_account_and_feel_the_benefits" = "अपना खाता बनाएं और लाभ महसूस करें";
+"confirm_password" = "पासवर्ड की पुष्टि कीजिये";
+"sign_up" = "साइन अप करें";
+
+
+// Settings View Controller
+
+"account" = "खाता";
+"languages" = "बोली";
+"app_icon" = "ऐप आइकन";
+"change_mode" = "मोड बदलें";
+"privacy_policy" = "गोपनीयता नीति";
+"help_center" = "सहायता केंद्र";
+"log_out" = "लॉग आउट";
+
+
+// Profile Screen
+
+"profile" = "प्रोफ़ाइल";
+"upload_profile_image" = "प्रोफ़ाइल छवि अपलोड करें";
+"name" = "नाम";
+"email" = "ईमेल";
+"edit_name" = "नाम संपादित करें";
+"edit_email" = "ईमेल संपादित करें";
+
+
+// CreateTodo Screen
+
+"title" = "शीर्षक";
+"description" = "विवरण";
+"priority" = "प्राथमिकता";
+"time" = "समय";
+"create" = "बनाएं";
+
+
+// EditTodo Screen
+
+"update" = "अद्यतन";
+"edit_today" = "आज ही संपादित करें";
+
+
+//Tabbar Text
+
+"home" = "घर";
+"upcomings" = "आगामी";
+"settings" = "समायोजन";

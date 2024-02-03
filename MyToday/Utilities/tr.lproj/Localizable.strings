@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "Tekrar hoşgeldiniz!";
+"your_work_faster_and_structured_with_todyapp" = "Todayapp ile işiniz daha hızlı ve yapılandırılmış";
+"email_address" = "E-posta Adresi";
+"password" = "Şifre";
+"remember_me" = "Beni Hatırla";
+"sign_in" = "Kayıt olmak";
+"forgot_password" = "Parolanızı mı unuttunuz";
+"don't_have_an_account" = "Hesabınız yok";
+"sign_up_now" = "Şimdi kayıt ol";
+
+
+// Sign Up
+
+"create_account" = "Hesap oluşturmak";
+"create_your_account_and_feel_the_benefits" = "Hesabınızı oluşturun ve avantajları hissedin ";
+"confirm_password" = "Şifreyi Onayla";
+"sign_up" = "Üye olmak";
+
+
+// Settings View Controller
+
+"account" = "Hesap";
+"languages" = "Diller";
+"app_icon" = "Uygulama Simgesi";
+"change_mode" = "Modu Değiştir";
+"privacy_policy" = "Gizlilik Politikası";
+"help_center" = "Yardım Merkezi";
+"log_out" = "Çıkış Yap";
+
+
+// Profile Screen
+
+"profile" = "Profil";
+"upload_profile_image" = "Profil Resmini Yükle";
+"name" = "İsim";
+"email" = "E-posta";
+"edit_name" = "Adı Düzenle";
+"edit_email" = "E-postayı Düzenle";
+
+
+// CreateTodo Screen
+
+"title" = "Başlık";
+"description" = "Tanım";
+"priority" = "Öncelik";
+"time" = "Zaman";
+"create" = "Yaratmak";
+
+
+// EditTodo Screen
+
+"update" = "Güncelleme";
+"edit_today" = "Bugünü Düzenle";
+
+
+//Tabbar Text
+
+"home" = "Ev";
+"upcomings" = "Yaklaşanlar";
+"settings" = "Ayarlar";

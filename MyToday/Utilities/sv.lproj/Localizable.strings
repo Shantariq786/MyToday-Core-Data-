@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "Välkommen tillbaka!";
+"your_work_faster_and_structured_with_todyapp" = "Ditt arbete snabbare och strukturerat med Todyapp";
+"email_address" = "E-postadress";
+"password" = "Lösenord";
+"remember_me" = "Kom ihåg mig";
+"sign_in" = "Logga in";
+"forgot_password" = "Glömt ditt lösenord";
+"don't_have_an_account" = "Har inget konto";
+"sign_up_now" = "Anmäl dig nu";
+
+
+// Sign Up
+
+"create_account" = "Skapa konto";
+"create_your_account_and_feel_the_benefits" = "Skapa ditt konto och känn fördelarna";
+"confirm_password" = "Bekräfta lösenord";
+"sign_up" = "Bli Medlem";
+
+
+// Settings View Controller
+
+"account" = "konto";
+"languages" = "språk";
+"app_icon" = "App-ikon";
+"change_mode" = "Ändra läge";
+"privacy_policy" = "Integritetspolicy";
+"help_center" = "Hjälpcenter";
+"log_out" = "Logga ut";
+
+
+// Profile Screen
+
+"profile" = "Profil";
+"upload_profile_image" = "Ladda upp profilbild";
+"name" = "namn";
+"email" = "E-post";
+"edit_name" = "Redigera namn";
+"edit_email" = "Redigera e-post";
+
+
+// CreateTodo Screen
+
+"title" = "Titel";
+"description" = "Beskrivning";
+"priority" = "Prioritet";
+"time" = "Tid";
+"create" = "Skapa";
+
+
+// EditTodo Screen
+
+"update" = "Uppdatering";
+"edit_today" = "Redigera idag";
+
+
+//Tabbar Text
+
+"home" = "Hem";
+"upcomings" = "Kommande";
+"settings" = "inställningar";

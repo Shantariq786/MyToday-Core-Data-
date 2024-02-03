@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "歡迎回來";
+"your_work_faster_and_structured_with_todyapp" = "使用 Todyapp 讓您的工作更快、更有條理";
+"email_address" = "電子郵件地址";
+"password" = "密碼";
+"remember_me" = "記住帳號";
+"sign_in" = "登入";
+"forgot_password" = "忘記密碼";
+"don't_have_an_account" = "沒有帳戶";
+"sign_up_now" = "立即註冊";
+
+
+// Sign Up
+
+"create_account" = "建立帳戶";
+"create_your_account_and_feel_the_benefits" = "建立您的帳戶並感受好處";
+"confirm_password" = "確認密碼";
+"sign_up" = "報名";
+
+
+// Settings View Controller
+
+"account" = "帳戶";
+"languages" = "語言";
+"app_icon" = "應用程式圖標";
+"change_mode" = "改變模式";
+"privacy_policy" = "隱私權政策";
+"help_center" = "幫助中心";
+"log_out" = "登出";
+
+
+// Profile Screen
+
+"profile" = "輪廓";
+"upload_profile_image" = "上傳個人資料圖片";
+"name" = "姓名";
+"email" = "電子郵件";
+"edit_name" = "編輯姓名";
+"edit_email" = "編輯電子郵件";
+
+
+// CreateTodo Screen
+
+"title" = "標題";
+"description" = "描述";
+"priority" = "優先事項";
+"time" = "時間";
+"create" = "創造";
+
+
+// EditTodo Screen
+
+"update" = "更新";
+"edit_today" = "今天編輯";
+
+
+//Tabbar Text
+
+"home" = "家";
+"upcomings" = "即將推出";
+"settings" = "設定";

@@ -1,0 +1,63 @@
+
+// Sign In
+
+"welcome_back" = "Content de te revoir!";
+"your_work_faster_and_structured_with_todyapp" = "Votre travail plus rapide et structuré avec Todyapp";
+"email_address" = "Adresse e-mail";
+"password" = "Mot de passe";
+"remember_me" = "Souviens-toi de moi";
+"sign_in" = "Se connecter";
+"forgot_password" = "Mot de passe oublié";
+"don't_have_an_account" = "Je n'ai pas de compte";
+"sign_up_now" = "S'inscrire maintenant";
+
+
+// Sign Up
+
+"create_account" = "Créer un compte";
+"create_your_account_and_feel_the_benefits" = "Créez votre compte et ressentez les avantages";
+"confirm_password" = "Confirmez le mot de passe";
+"sign_up" = "S'inscrire";
+
+
+// Settings View Controller
+
+"account" = "Compte";
+"languages" = "Langues";
+"app_icon" = "Icône De L'application";
+"change_mode" = "Changer De Mode";
+"privacy_policy" = "Politique De Confidentialité";
+"help_center" = "Centre D'aide";
+"log_out" = "Se Déconnecter";
+
+
+// Profile Screen
+
+"profile" = "Profil";
+"upload_profile_image" = "Télécharger L'image Du Profil";
+"name" = "Nom";
+"email" = "E-mail";
+"edit_name" = "Modifier Le Nom";
+"edit_email" = "Modifier L'Es-mail";
+
+
+// CreateTodo Screen
+
+"title" = "Titre";
+"description" = "Description";
+"priority" = "Priorité";
+"time" = "Temps";
+"create" = "Créer";
+
+
+// EditTodo Screen
+
+"update" = "Mise à jour";
+"edit_today" = "Modifier aujourd'hui";
+
+
+//Tabbar Text
+
+"home" = "Maison";
+"upcomings" = "À venir";
+"settings" = "Paramètres";
